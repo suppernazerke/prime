@@ -1,0 +1,70 @@
+
+    {"products" : [{
+      "id": 1,
+      "title": "Напиток",
+      "img": "img/drink.png",
+      "price": 10,
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "store": 10,
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Донер",
+      "img": "img/doner.png",
+      "price": 30,
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "store": 10,
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Сэндвич",
+      "img": "img/sandwich.png",
+      "price": 39,
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "store": 10,
+      "active": true
+    },
+    {
+      "id": 4,
+      "title": "Бургер",
+      "img": "img/burger.png",
+      "price": 55,
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "store": 10,
+      "active": true
+    },
+    {
+      "id": 5,
+      "title": "Чипсы",
+      "img": "img/chips.png",
+      "price": 20,
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "store": 10,
+      "active": true
+    },
+    {
+      "id": 6,
+      "title": "Сухарики",
+      "img": "img/suhariki.png",
+      "price": 17,
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "store": 10,
+      "active": true
+    }]}
+
+
+  
